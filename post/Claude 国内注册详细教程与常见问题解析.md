@@ -52,4 +52,44 @@ Claude 系列版本中，**Claude 3.5** 最新推出的 Artifacts 功能，支�
 
 ### Claude 注册完成
 
-1. 在 Claude 注册页面填写
+1. 在 Claude 注册页面填写海外手机号，选择正确的国家代码并发送验证码。  
+2. 收到验证码后，填入并确认，创建账户。  
+3. 验证通过后，设置用户名并确认相关注意事项，即可成功进入 Claude 界面。
+
+![注册成功界面](https://fanqiechaofan.oss-cn-hangzhou.aliyuncs.com/img/202408071419288.png)
+
+---
+
+## Claude 注册常见问题与封号原因
+
+### 常见封号原因
+
+1. **节点问题**：使用非干净或官方禁止的地区节点（建议使用美国节点）。  
+2. **手机号问题**：注册时使用了不合规或被标记的号码。  
+3. **邮箱问题**：尽管 Outlook 和 Gmail 都可用，但部分账户可能因风控被封。
+
+> **解决方法**：确保使用干净的网络环境和小众国家的手机号，例如通过 WildCard 平台申请智利、摩尔多瓦等国家的号码。
+
+---
+
+## 替代方案：国内可用的 Claude 替代平台
+
+如果因封号或注册失败无法使用 Claude，可尝试以下替代方案：
+
+1. **Poe 平台**  
+   Poe 集成了 Claude、GPT-4 和 DALL-E 3 等多个 AI 模型。普通用户每天有 3000 积分，使用 Claude 需消耗 295 积分（约 10 次对话），更多使用需订阅会员。  
+   > **推荐阅读**：[Poe 国内如何订阅？Poe 订阅教程](https://fanqiecf.com/how-to-subscribe-to-Poe/)
+
+2. **Perplexity 平台**  
+   Perplexity 是一个高级 AI 搜索引擎，也集成了 Claude 和 GPT-4，部分功能需订阅 Pro 会员。
+
+3. **国内 Claude 镜像网站**  
+   国内部分镜像网站支持访问 Claude，无需担心封号问题。  
+   > **推荐阅读**：[Claude 国内镜像指南 | 支持免费体验](https://fanqiecf.com/claude-mirrors-of-wildcard/)
+
+---
+
+## 总结
+
+Claude 的 AI 写作能力在同类产品中表现出色，但注册难度和封号风险对国内用户来说是主要痛点。使用 [WildCard](https://bit.ly/bewildcard) 平台获取小众国家手机号，可以有效提高注册成功率。同时，国内用户也可选择 Poe、Perplexity 或 Claude 镜像网站作为替代方案。  
+无论选择哪种方式，都建议充分了解平台规则并做好风险防范。
