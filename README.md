@@ -22,7 +22,7 @@ GPT-4 的主要功能包括：
 3. **微调参数**：GPT-4 结合了精细的参数和算法，可针对特定任务或领域生成更细致、更准确的文本。
 4. **增强的性能**：GPT-4 展示了改进的性能指标，包括更高的准确率和减少生成无意义或不相关内容的实例。
 
-虽然 GPT-4 代表了 AI 功能的重大飞跃，但 GPT-4 Turbo 的推出为该领域带来了新的维度。[2024年快速升级GPT-4的方法，升级GPT-4 Turbo教程](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)，很方便进行升级。
+虽然 GPT-4 代表了 AI 功能的重大飞跃，但 GPT-4 Turbo 的推出为该领域带来了新的维度。
 
 ## GPT-4 Turbo 简介
 
@@ -60,7 +60,6 @@ GPT-4 Turbo 的主要增强功能包括：
 
 GPT-4 Turbo 更笨吗？测试表明它在 SAT 中表现更差。这是真的吗？ — API — OpenAI 开发者论坛。
 
-[2024年快速升级ChatGPTPLSU方法，开卡即可升级，支持微信支付宝](https://gpt.fomepay.com/#/pages/login/index?d=Q3DD80)
 
 ## 结论
 
